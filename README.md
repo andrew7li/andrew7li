@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, I'm Andrew 👋
+
+I'm a junior at Brown University studying Computer Science and Psychology. My interests lie in full-stack development, artificial intelligence, software engineering, and user-centered design. Outside of CS, I love watching football (shoutout Washington Commanders), playing guitar, and getting boba.
+
+Feel free to reach me by [email](mailto:andrewli2024@gmail.com) or [connect](https://www.linkedin.com/in/andrew-li-9ba72a1b4/) with me on LinkedIn!
 
 <!--
 **andrew7li/andrew7li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
